@@ -1,1 +1,3 @@
+# Introduction
+
 Our project offers an immersive, virtual platform that enables users to construct three-dimensional objects in a simulated space environment. This platform operates under two key modes. The first, aptly named "Creative Mode," encourages users to work collaboratively, allowing them to collectively design and assemble intricate 3D objects. The second is a dynamic Pictionary-style game, where participants are urged to swiftly sketch and accurately guess a secret word within the virtual space. Detailed information regarding these features is readily accessible in the report housed in docs.
